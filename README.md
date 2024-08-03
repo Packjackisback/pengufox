@@ -1,4 +1,4 @@
-# Archived, to lazy to maintain this project
+# Forked, maintainence only
 # pengufox
 **pengufox is a Firefox config that makes Firefox more beautiful, more secure and better protect privacy by using FirefoxCSS and disabling all telemetry.**
 
